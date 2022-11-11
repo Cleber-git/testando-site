@@ -1,6 +1,6 @@
 *{
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     color: grey;
     margin: 25px;
 }
@@ -20,8 +20,8 @@ img.esquerdo{
 
 main{
     background-color: black;
-    width: 1000px;
-    margin: 10px;
+    width: 500px;
+    margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.24);
 }
